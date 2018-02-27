@@ -3,7 +3,7 @@
 CPXCoin integration/staging tree
 ================================
 
-http://www.cpxcoin.org
+https://sionex.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 CPXCoin Developers
@@ -21,11 +21,10 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the CPXCoin client sofware, see http://www.cpxcoin.org.
+the CPXCoin client sofware, see https://sionex.org
 
 License
 -------
 
 CPXCoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
-
